@@ -118,7 +118,7 @@
     <h2>お知らせ</h2>
     <p>最新情報やイベント情報をこちらでお知らせします。</p>
     <div>
-        <img src="img/IMG_2189.jpg" alt="お知らせ画像" style="width: 150%; max-width: 750px; border-radius: 10px; margin-top: 20px;">
+        <img src="img/IMG_2189.jpg" alt="お知らせ画像" style="width: 125%; max-width: 625px; border-radius: 10px; margin-top: 20px;">
     </div>
 </section>
 
