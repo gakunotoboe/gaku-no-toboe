@@ -144,10 +144,10 @@
     <h2>ヒストリー</h2>
     <p>GAKU NO TOBOEの歴史やこだわりをご紹介します。</p>
     <div>
-        <img src="img/IMG_2190.jpg" alt="ヒストリー画像" style="width: 100%; max-width: 500px; border-radius: 10px; margin-top: 20px;">
+        <img src="img/IMG_2190.jpg" alt="ヒストリー画像" style="width: 150%; max-width: 750px; border-radius: 10px; margin-top: 20px;">
     </div>
 <div>
-        <img src="img/IMG_2191.jpg" alt="ヒストリー画像" style="width: 100%; max-width: 500px; border-radius: 10px; margin-top: 20px;">
+        <img src="img/IMG_2191.jpg" alt="ヒストリー画像" style="width: 150%; max-width: 750px; border-radius: 10px; margin-top: 20px;">
     </div>
 
 </section>
