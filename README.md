@@ -118,7 +118,7 @@
     <h2>お知らせ</h2>
     <p>最新情報やイベント情報をこちらでお知らせします。</p>
     <div>
-        <img src="img/IMG_2189.jpg" alt="お知らせ画像" style="width: 200%; max-width: 1250px; border-radius: 10px; margin-top: 20px;">
+        <img src="img/IMG_2189.jpg" alt="お知らせ画像" style="width: 100%; max-width: 500px; border-radius: 10px; margin-top: 20px;">
     </div>
 </section>
 
@@ -144,10 +144,10 @@
     <h2>ヒストリー</h2>
     <p>GAKU NO TOBOEの歴史やこだわりをご紹介します。</p>
     <div>
-        <img src="img/IMG_2190.jpg" alt="ヒストリー画像" style="width: 250%; max-width: 1250px; border-radius: 10px; margin-top: 20px;">
+        <img src="img/IMG_2190.jpg" alt="ヒストリー画像" style="width: 100%; max-width: 500px; border-radius: 10px; margin-top: 20px;">
     </div>
 <div>
-        <img src="img/IMG_2191.jpg" alt="ヒストリー画像" style="width: 250%; max-width: 1250px; border-radius: 10px; margin-top: 20px;">
+        <img src="img/IMG_2191.jpg" alt="ヒストリー画像" style="width: 100%; max-width: 500px; border-radius: 10px; margin-top: 20px;">
     </div>
 
 </section>
