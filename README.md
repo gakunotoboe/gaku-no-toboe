@@ -69,7 +69,7 @@
             transition: transform 0.3s ease;
         }
         .menu-items img:hover {
-            transform: scale(4.5);
+            transform: scale(2.5);
             z-index: 1;
         }
         .menu-items div {
@@ -118,7 +118,7 @@
     <h2>お知らせ</h2>
     <p>最新情報やイベント情報をこちらでお知らせします。</p>
     <div>
-        <img src="img/IMG_2189.jpg" alt="お知らせ画像" style="width: 100%; max-width: 500px; border-radius: 10px; margin-top: 20px;">
+        <img src="img/IMG_2189.jpg" alt="お知らせ画像" style="width: 150%; max-width: 750px; border-radius: 10px; margin-top: 20px;">
     </div>
 </section>
 
