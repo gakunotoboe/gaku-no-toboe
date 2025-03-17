@@ -123,6 +123,9 @@
      <div>
         <img src="img/IMG_2199.jpg" alt="お知らせ画像" style="width: 100%; max-width: 500px; border-radius: 10px; margin-top: 20px;">
     </div>
+     <div>
+        <img src="img/IMG_2200.jpg" alt="お知らせ画像" style="width: 100%; max-width: 500px; border-radius: 10px; margin-top: 20px;">
+    </div>
 </section>
 
 <section id="menu">
