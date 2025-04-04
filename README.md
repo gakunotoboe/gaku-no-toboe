@@ -69,7 +69,7 @@
             transition: transform 0.3s ease;
         }
         .menu-items img:hover {
-            transform: scale(2.5);
+            transform: scale(3.5);
             z-index: 1;
         }
         .menu-items div {
